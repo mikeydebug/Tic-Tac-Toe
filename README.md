@@ -2,7 +2,9 @@
 
 A fun and responsive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. This classic game allows two players to alternate turns placing their symbols on a 3x3 grid and aims to form a winning combination. Perfectly suitable for practicing DOM manipulation, event handling, and game logic.
 
-![Tic Tac Toe Demo](https://user-images.githubusercontent.com/your-demo-image.gif) <!-- Replace with actual demo GIF or screenshot -->
+![Tic Tac Toe Demo](<img width="640" alt="Screenshot 2025-07-02 at 10 49 39 AM" src="https://github.com/user-attachments/assets/4b2613ec-d9e3-40a4-a7ee-0e0f31680439" />
+) 
+
 
 ---
 
@@ -24,7 +26,7 @@ A fun and responsive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScrip
 
 ## 📂 Project Structure
 
-```bash
+
   Tic-Tac-Toe/
  ├── index.html       # Game layout
  ├── style.css        # Styling and layout design
@@ -32,11 +34,13 @@ A fun and responsive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScrip
  ---
 
 📸 Screenshots
+<img width="458" alt="Screenshot 2025-07-02 at 10 49 16 AM" src="https://github.com/user-attachments/assets/f6a3e1fe-44b7-4c14-969d-d35cf633b834" />
+<img width="607" alt="Screenshot 2025-07-02 at 10 50 25 AM" src="https://github.com/user-attachments/assets/43b8bba9-516f-4ebb-b1c2-1e0f3070a49b" />
 
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 	•	🧱 HTML5
 	•	🎨 CSS3
 	•	⚙️ JavaScript (ES6)
@@ -44,17 +48,20 @@ A fun and responsive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScrip
 
 ---
 
-🧑‍💻 How to Run Locally
-	1.	Clone the repo
+## 🧑‍💻 How to Run Locally
+ 
+1.	Clone the repo
+   
 git clone https://github.com/mikeydebug/tic-tac-toe.git
 
-	2.	Navigate into the directory
+3.	Navigate into the directory
+ 
 cd Tic-Tac-Toe
 
-	3.	Open index.html in your browser
+3.	Open index.html in your browser
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn and grow. Feel free to:
 	•	Submit pull requests
@@ -62,12 +69,12 @@ Contributions are what make the open-source community such an amazing place to l
 	•	Suggest features or improvements
 
 ---
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
 ---
-💡 Author
+## 💡 Author
 
 Made with ❤️ by Mayank Soni
 
